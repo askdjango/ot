@@ -1,0 +1,5 @@
+django<1.11
+pillow
+pymysql
+django-storages
+boto3
